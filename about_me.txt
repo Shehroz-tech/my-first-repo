@@ -1,0 +1,3 @@
+My name is Muhammad Shehroz.
+I'm an Electrical Engineering graduate currently working in telecom.
+Learning Git and GitHub for version control and collaboration.
